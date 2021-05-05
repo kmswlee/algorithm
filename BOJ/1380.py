@@ -15,5 +15,3 @@ while True:
 
 for i,v in enumerate(student_print):
     print(i+1,v)
-
-
